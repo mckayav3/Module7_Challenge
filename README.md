@@ -44,10 +44,42 @@ In gitbash after you have activated your dev environment, install the following:
     
 ![install pyviz hvplot](https://github.com/mckayav3/Module7_Challenge/blob/main/images/install_pyviz_hvplot.JPG)
 
+*Sqlalchemy
+
+    `conda list sqlalchemy`
+    
+    `pip install SQLAlchemy`
+    
+![list sqlalchemy](https://github.com/mckayav3/Module7_Challenge/blob/main/images/list_sqlalchemy.JPG)
+
+![install sqlalchemy](https://github.com/mckayav3/Module7_Challenge/blob/main/images/install_sqlalchemy.JPG)
+
+
+
+*Voila
+
+    `conda install -c conda-forge voila`
+    
+    `voila etf_analyzer.ipynbn`
+    
+![install voila](https://github.com/mckayav3/Module7_Challenge/blob/main/images/install_voila.JPG)
+
+![run voila](https://github.com/mckayav3/Module7_Challenge/blob/main/images/run_voila.JPG)
+
 ---
 
 ## Examples
 The images below show the different types of charts and graphs that should result from running the code in the ETF analyzer. By reviewing the charts and graphs we can analyze the Fintech ETF.
 
 
-![]
+![pypl head and tail](https://github.com/mckayav3/Module7_Challenge/blob/main/images/head_tail_pypl.JPG)
+
+![pypl daily returns](https://github.com/mckayav3/Module7_Challenge/blob/main/images/pypl_daily_returns.JPG)
+
+![pypl cumulative returns](https://github.com/mckayav3/Module7_Challenge/blob/main/images/cum_returns_pypl.JPG)
+
+![pypl higher than 200](https://github.com/mckayav3/Module7_Challenge/blob/main/images/pypl_higher_200.JPG)
+
+![etf portfolio inner join](https://github.com/mckayav3/Module7_Challenge/blob/main/images/inner_join_portfolio.JPG)
+
+![etf portfolio cumulative returns](https://github.com/mckayav3/Module7_Challenge/blob/main/images/etf_portfolio_cum_returns.JPG)
