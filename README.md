@@ -1,4 +1,4 @@
-# Module7_Challenge: Web Application for an ETF Analyzer
+# Module 7 Challenge: Web Application for an ETF Analyzer
 
 
 This application utilizes SQL, Python and Voila to analyze a fintech ETF. The web application will give the daily returns of the ETF stocks individually and as a whole portfolio. The information that we gain from the analysis is then displayed through data visualizations using hvplot.
@@ -35,17 +35,19 @@ In gitbash after you have activated your dev environment, install the following:
 
     `conda install -c plotly plotly=4.13`
     
-![install plotyly]()
+![install plotyly](https://github.com/mckayav3/Module7_Challenge/blob/main/images/install_plotly.JPG)
 
 
 *Pyviz Hvplot
 
     `conda install -c pyviz hvplot`
     
-![install pyviz hvplot]()
+![install pyviz hvplot](https://github.com/mckayav3/Module7_Challenge/blob/main/images/install_pyviz_hvplot.JPG)
 
 ---
 
 ## Examples
 The images below show the different types of charts and graphs that should result from running the code in the ETF analyzer. By reviewing the charts and graphs we can analyze the Fintech ETF.
 
+
+![]
